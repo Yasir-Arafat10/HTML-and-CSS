@@ -1,0 +1,18 @@
+th{ 
+    color:white;
+    background-color: rgb(113, 30, 161);
+}
+td{ 
+    color: white;
+    background-color: darkblue;
+}
+table{
+    border: solid;
+    background-color:darkblue;
+    width: 1186px;
+    height: 590px;
+    border-color: darkblue;
+}
+body{
+    background-color: gray;
+}

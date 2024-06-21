@@ -1,0 +1,13 @@
+h1{
+    border-style:solid;
+    border-width:5px;
+    border-color:cyan;
+    border-left-color: black;
+    border-bottom-color: darkblue;
+    border-right-color: darkgreen;
+    padding-top: 5px;
+    padding-left: 6px;
+    padding-right: 8px;
+    padding-bottom: 15px;
+    padding: 20px;
+}

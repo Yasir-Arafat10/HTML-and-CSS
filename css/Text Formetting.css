@@ -1,0 +1,19 @@
+h1 {
+    color: darkblue;
+    text-align: left;
+    letter-spacing: 2px;
+    word-spacing: 25px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: right;
+}
+
+p {
+    text-align: justify;
+    line-height:1.8;
+}

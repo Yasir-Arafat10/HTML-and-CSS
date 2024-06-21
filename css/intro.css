@@ -1,0 +1,12 @@
+body {
+    background-color: lightgreen;
+    background-image: -webkit-linear-gradient();
+}
+
+p {
+    color: darkblue;
+}
+
+h2 {
+    color: rgb(140, 120, 255);
+}

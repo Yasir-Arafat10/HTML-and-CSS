@@ -1,0 +1,11 @@
+body {
+    background-attachment: fixed;
+    background-color: rgb(179, 245, 182);
+    background-image: url(../img/download.jpeg);
+    background-repeat: ;
+    background-position: ;
+}
+
+h1 {
+    color: white;
+}

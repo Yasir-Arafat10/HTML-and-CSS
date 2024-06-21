@@ -1,0 +1,8 @@
+* the paragraph in our div tag is child of the div tag */
+div p{
+    color: darkseagreen;
+}
+/* the paragraph out our div tag is a child of the body tag */
+body > p{
+    color: chocolate;
+}

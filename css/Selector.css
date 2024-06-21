@@ -1,0 +1,16 @@
+/* universal selector */
+* {
+    color: darkcyan;
+}
+/* by id selector */
+#para1 {
+    color: indigo;
+}
+
+h1 {
+    color: darkslategrey;
+}
+/* by class */
+.para3{
+    color:green;
+}
